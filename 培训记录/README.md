@@ -1,4 +1,4 @@
-# 【重生之我在建模】数学建模暑期培训记录  7.7-7.20 by_Akaxi/hurunsheng/hukaixing
+# 【重生之我在建模】数学建模暑期培训记录  7.7-7.20 by_Akaxi/Eyderoe/hukaixing
 
 ## 一、差分方程、交通网络模型
 
