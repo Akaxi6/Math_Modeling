@@ -92,7 +92,7 @@ void map::setAim (int start, int end) {
     if (start >= lengths || end >= lengths)
         std::cerr << "MasterCaution:OutOfRange" << std::endl;
     if (start == end)
-        std::cout << "ECAM\n" << "-START...CHECK\n" << "-END.....CHECK\n" << "--------------" << std::endl;
+        std::cout << "DESTINATION CONFLICT\n" << "-START...CHECK\n" << "-END.....CHECK\n" << "--------------" << std::endl;
     (headList + start)->distance = 0;
     (headList + start)->frontPoint = -1;
     endPoint = end;
